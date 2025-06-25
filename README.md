@@ -19,11 +19,9 @@
 
 ![Grilli Desktop Demo]
 <br>
-(![grilliiii](https://github.com/user-attachments/assets/25ad7e4d-c94e-4cb8-a0a8-10a3d18db447)
+![grilliiii](https://github.com/user-attachments/assets/25ad7e4d-c94e-4cb8-a0a8-10a3d18db447)
 
-)
 
-)
 
 ### Prerequisites
 
