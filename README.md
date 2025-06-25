@@ -1,10 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+  
 
   <br />
   <br />
@@ -13,7 +9,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://rushikeshjadhav2004.github.io/Grilli_Web_Design//"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +17,11 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Grilli Desktop Demo]
+<br>
+![grilliiii](https://github.com/user-attachments/assets/25ad7e4d-c94e-4cb8-a0a8-10a3d18db447)
+
+
 
 ### Prerequisites
 
@@ -36,19 +36,17 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/RushikeshJadhav2004/Grilli_Web_Design
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/RushikeshJadhav2004/Grilli_Web_Design
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkdin](http://www.linkedin.com/in/rushikeshjadhav2004).
 
-### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
