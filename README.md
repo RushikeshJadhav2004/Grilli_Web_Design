@@ -9,7 +9,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://rushikeshjadhav2004.github.io/Grilli_Web_Design//"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,7 +17,10 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](![grilliiii](https://github.com/user-attachments/assets/2cab1a6b-ea20-4b94-aa38-f92eabd5b507)
+![Grilli Desktop Demo](![grilliiii](https://github.com/user-attachments/assets/25ad7e4d-c94e-4cb8-a0a8-10a3d18db447)
+![grilliiii](https://github.com/user-attachments/assets/25ad7e4d-c94e-4cb8-a0a8-10a3d18db447)
+)
+
 )
 
 ### Prerequisites
